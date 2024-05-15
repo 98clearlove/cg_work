@@ -28,5 +28,6 @@ int  main11()
     cout << "Length  of  v2:  " << v2.getLength() << endl;
     cout << "Vector  v3:  (" << v3.getX() << ",  " << v3.getY() << ",  " << v3.getZ() << ")" << endl;
     cout << "Length  of  v3:  " << v3.getLength() << endl;
+    cout << "¸Ä¶¯";
     return  0;
 }
