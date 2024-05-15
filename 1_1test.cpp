@@ -140,7 +140,7 @@ private:
 
 //Ö÷³ÌÐò
 
-int main()
+int maint()
 {
     int a[] = { 1, 2, 3, 5, 7, 9, 12, 8 };
     double  b[] = { 1, 2.5, 3.6, 5, 7, 9, 12.8, 8 };
@@ -158,6 +158,7 @@ int main()
     list3.show();
     cout << "max=" << list3.getMax() << endl;
     cout << (1 ^1);
+    return 0;
 }
 
 

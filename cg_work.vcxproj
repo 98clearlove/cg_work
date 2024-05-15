@@ -141,6 +141,7 @@
     <ClCompile Include="2_2.cpp" />
     <ClCompile Include="2_3.cpp" />
     <ClCompile Include="2_4.cpp" />
+    <ClCompile Include="2_5.cpp" />
     <ClCompile Include="2_9.cpp" />
     <ClCompile Include="1_1test.cpp" />
   </ItemGroup>
